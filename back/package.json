@@ -1,0 +1,28 @@
+{
+  "name": "back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.2",
+    "axios": "^0.21.1",
+    "base64-to-image": "^1.0.2",
+    "btoa": "^1.2.1",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "google-auth-library": "^7.1.0",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.2",
+    "mustache": "^4.2.0",
+    "pg": "^8.6.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "virtual-dom": "^2.1.1"
+  }
+}

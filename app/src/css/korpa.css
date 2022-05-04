@@ -1,0 +1,64 @@
+#tt22{
+    height: 300px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.info-div{
+
+    background-color: whitesmoke;
+    margin-top:3vh;
+    margin-bottom:3vh;
+    margin-left: 10vw;  
+    margin-right: 10vw;
+    padding: 5vh 5vw 5vh 5vw;
+    border:2px solid slategray;
+    border-radius: 0.6em;
+}
+
+.sm-picture{
+
+    width: 150px;
+    height: 150px;
+}
+
+.adj-price{
+
+    color:red;
+}
+
+.plusplus{
+    padding-top: 5px;
+}
+
+.div-itemii{
+
+    border: 2px gray solid;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    padding: 20px;
+
+    -webkit-box-shadow: 2px 5px 29px 9px rgba(71,71,71,0.5); 
+    box-shadow: 2px 5px 29px 9px rgba(71,71,71,0.5);
+
+}
+
+.div-itemiii{
+
+    border-top: 2px gray solid;
+    
+}
+
+.inner{
+    position: absolute; 
+    bottom: 10px;
+    right: 35%;
+}
+
+.outter{
+    
+    position: relative;
+}

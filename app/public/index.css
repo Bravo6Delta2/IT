@@ -1,0 +1,101 @@
+.he1{  user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -webkit-user-select: none;
+    -o-user-select: none;}
+.he{
+    color: whitesmoke;
+  
+}
+.he:hover{
+    background-color: whitesmoke;
+    color: #212529;
+    border-radius: 0.6em;
+    
+}
+.banner-css{
+    width: 100%;
+    height: 23%;
+    
+}
+
+@media only screen and (max-width:900px) {
+    .banner-css{
+        width: 100%;
+        height: 100px;
+    }
+  
+}
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top:0px;
+    border-bottom-left-radius: 0.6em;
+    border-bottom-right-radius: 0.6em;
+    z-index: 3;
+  }
+  body{
+      color: black;
+      background-color: wheat;
+  }
+.dropdown{
+    color: whitesmoke;
+    background-color: slategrey;
+    border-radius: 0.8em;
+}
+.ce{
+    background-color: #212529;
+}
+
+.head{
+    background: black;
+    overflow: hidden;
+}
+@keyframes out{
+    from{opacity: 1;}
+    to{opacity: 0.5;}
+}
+@keyframes in{
+    from{opacity: 0.5;}
+    to{opacity: 1;}
+}
+
+.pic{
+    opacity: 1;
+    animation: in;
+    animation-duration: 2s;
+}
+.pic1{
+    opacity: 0.5;
+    animation: out  ;
+    animation-duration: 2s;
+}
+.link1{
+    color:  whitesmoke;;
+    text-decoration: none;
+}
+.link1:hover{
+    color:  whitesmoke;;
+    text-decoration: none;
+}
+.l1{
+    list-style: none;
+}
+
+.link2{
+
+    text-decoration: none;
+}
+.link2:hover{
+
+    text-decoration: none;
+}
+.l2{
+    list-style: none;
+}
+
+.div-foot{
+
+    padding-top: 20px;
+
+}

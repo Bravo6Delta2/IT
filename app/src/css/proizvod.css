@@ -1,0 +1,57 @@
+.slidic{
+
+    width: 30vw;
+    height: 50vh;
+}
+
+
+@media only screen and (max-width: 760px) {
+  .slidic{
+
+    height: 50vh;
+    margin: auto;
+    width: 50%;
+}}
+@media only screen and (min-width: 900px) {
+  .slidic{
+    height: 50vh;
+   width: 40vw;
+}
+ 
+}
+.cp{
+    color: red;
+}
+
+.leftside{
+
+    border: 2px gray solid;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    padding: 20px;
+
+    -webkit-box-shadow: 2px 5px 29px 9px rgba(71,71,71,0.5); 
+    box-shadow: 2px 5px 29px 9px rgba(71,71,71,0.5);
+}
+
+.border1{
+
+    border: 2px gray solid;
+    border-radius: 5px;
+}
+
+.customLegend {
+  border: 1px solid gray;
+  padding: 2em 0 1em;
+  margin-top: 2em;
+  position: relative;
+}
+.customLegend legend {
+  border: 0;
+  width: auto;
+  background-color: wheat;
+  transform: translateY(-190%);
+  position: absolute;
+  top: 0; left: 1em;
+  padding: 0 .5em;
+}

@@ -1,0 +1,33 @@
+.admindiv{
+         
+        border: 2px gray solid;
+        background-color: whitesmoke;
+        border-radius: 5px;
+        padding: 20px;
+    
+        -webkit-box-shadow: 2px 5px 29px 9px rgba(71,71,71,0.5); 
+        box-shadow: 2px 5px 29px 9px rgba(71,71,71,0.5);
+        margin-bottom: 15vh;
+        margin-top:15vh;
+        margin-left: 9vw;
+        margin-right: 9vw;
+}
+
+.passinput{
+    margin-top:2px;
+    width: 200px;
+}
+.admindiv1{
+         
+    border: 2px gray solid;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    padding: 20px;
+
+    -webkit-box-shadow: 2px 5px 29px 9px rgba(71,71,71,0.5); 
+    box-shadow: 2px 5px 29px 9px rgba(71,71,71,0.5);
+    margin-bottom: 15vh;
+    margin-top:15vh;
+    margin-left: 9vw;
+    margin-right: 9vw;
+}
