@@ -433,7 +433,7 @@ app.post("/profil/", async (req,res)=>{
    
 });
 
-const client = new OAuth2Client('7412223076-fhpbstpairfhm55t2v73rosvp517o02v.apps.googleusercontent.com');
+const client = new OAuth2Client('');
 app.post("/api/v1/auth/google", async (req, res) => {
   
    
